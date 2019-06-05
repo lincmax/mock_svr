@@ -1,21 +1,21 @@
 {
   "product_items": [
       {
-          "product_id": "10539736",
+          "product_id": "3373614339",
           "variant_id": "3373614339",
           "name": "linc product name 1",
           "returnable": true,
           "reject_type": "",
           "reject_reason": "",
           "return_deadline": "2019-12-31T23:59:59.999Z",
-          "quantity": 10,
+          "quantity": 30,
           "returned_quantity": 1,
           "cancelled_quantity": 2,
           "delivered_quantity": 6,
           "returnable_quantity": 30
       },
       {
-          "product_id": "10539737",
+          "product_id": "3376082179",
           "variant_id": "3376082179",
           "name": "linc product name 2",
           "returnable": true,
