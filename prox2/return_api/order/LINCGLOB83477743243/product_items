@@ -11,8 +11,8 @@
           "quantity": 30,
           "returned_quantity": 1,
           "cancelled_quantity": 2,
-          "delivered_quantity": 6,
-          "returnable_quantity": 30
+          "delivered_quantity": 26,
+          "returnable_quantity": 23
       },
       {
           "product_id": "3376082179",
