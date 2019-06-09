@@ -1,4 +1,4 @@
 {
-  "carrier": "",
-  "service_type": "smart_post"
+  "carrier": "ups",
+  "service_type": "surepost"
 }
