@@ -8,11 +8,11 @@
           "reject_type": "",
           "reject_reason": "",
           "return_deadline": "2019-12-31T23:59:59.999Z",
-          "quantity": 47,
+          "quantity": 30,
           "returned_quantity": 1,
           "cancelled_quantity": 2,
           "delivered_quantity": 26,
-          "returnable_quantity": 25
+          "returnable_quantity": 15
       },
       {
           "product_id": "3376082179",
